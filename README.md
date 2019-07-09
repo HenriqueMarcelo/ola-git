@@ -1,5 +1,5 @@
 # Repositório de teste
 
-![./turma.png](Turma da Mônica)
+![](/turma.png)
 
 Apenas testes
